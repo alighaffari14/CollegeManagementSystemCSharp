@@ -1,0 +1,881 @@
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\bin\Debug\College Management System.exe.config
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\bin\Debug\College Management System.exe.manifest
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\bin\Debug\College Management System.application
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\bin\Debug\College Management System.exe
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\bin\Debug\College Management System.pdb
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEvent.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSubjectInfoReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAttendanceRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAttendanceReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentReceipt.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentReceiptRpt.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHoldersReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmCourseFeePaymentReceipt.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeePaymentReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeRecord1.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeeDetailsReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeePaymentRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesPaymentReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostel.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHolders.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelers.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHoldersRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHoldersRecord1.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelersRecord1.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelersRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelersReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePayment.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePayment.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentReceiptRpt.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentRecord1.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentRecord1.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelPaymentReceipt.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmInternalMarksReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmLogin.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmDepartmentRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeePaymentReceipt.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmLoginDetails.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRegisteredUsersDetails.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRegistrationForm.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalaryPaymentRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalarySlipRpt.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentReceipt.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentReceiptRpt.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentRecord1.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentDetailsRpt.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistrationRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistrationRecord2.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistrationRecord1.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentsRegistrationReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransactionRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransactionRecord1.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransactionReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransportation.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransportationRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransportationReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRegistrationReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalaryPaymentRecord1.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.FrmSalarySlip.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSection.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSectionRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSemester.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSemesterRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSplash.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentDetailsReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAboutBox1.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmChangePassword.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmContact.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmCourse.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmCourseRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmDepartment.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeDetails.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeePaymentRecord1.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesDetails.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesDetailsRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesPayment.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmInternalMarksEntry.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmOtherTransaction.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalaryPayment.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarship.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPayment.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmMainMenu.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRecoveryPassword.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAttendance.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudent.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistration.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSubjectInfo.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSubjectInfoRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmUserRegistration.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmPrintOptions.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.Properties.Resources.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College Management System.csproj.GenerateResource.Cache
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College Management System.exe.manifest
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College Management System.application
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College Management System.exe
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College Management System.pdb
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College Management System.csprojResolveAssemblyReference.cache
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEventRecord.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\bin\Debug\College Management System.exe.config
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College Management System.exe
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College Management System.pdb
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College Management System.csprojResolveAssemblyReference.cache
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEvent.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEventRecord.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSubjectInfoReport.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAttendanceRecord.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAttendanceReport.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentReceipt.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentReceiptRpt.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHoldersReport.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmCourseFeePaymentReceipt.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeePaymentReport.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeRecord.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeRecord1.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeReport.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeeDetailsReport.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeePaymentRecord.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesPaymentReport.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostel.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHolders.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelers.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHoldersRecord.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHoldersRecord1.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelersRecord1.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelersRecord.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelersReport.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePayment.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePayment.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentReceiptRpt.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentRecord.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentRecord1.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentRecord.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentRecord1.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentReport.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentReport.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelPaymentReceipt.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelRecord.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmInternalMarksReport.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmLogin.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmDepartmentRecord.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeePaymentReceipt.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmLoginDetails.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRegisteredUsersDetails.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRegistrationForm.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalaryPaymentRecord.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalarySlipRpt.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentReceipt.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentReceiptRpt.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentRecord.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentRecord1.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentReport.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentDetailsRpt.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRecord.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistrationRecord.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistrationRecord2.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistrationRecord1.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentsRegistrationReport.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransactionRecord.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransactionRecord1.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransactionReport.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransportation.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransportationRecord.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransportationReport.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRegistrationReport.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalaryPaymentRecord1.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.FrmSalarySlip.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipRecord.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSection.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSectionRecord.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSemester.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSemesterRecord.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSplash.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentDetailsReport.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAboutBox1.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmChangePassword.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmContact.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmCourse.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmCourseRecord.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmDepartment.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeDetails.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeePaymentRecord1.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesDetails.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesDetailsRecord.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesPayment.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmInternalMarksEntry.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmOtherTransaction.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalaryPayment.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarship.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPayment.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmMainMenu.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRecoveryPassword.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAttendance.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudent.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistration.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentReport.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSubjectInfo.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSubjectInfoRecord.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmUserRegistration.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmPrintOptions.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.Properties.Resources.resources
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College Management System.csproj.GenerateResource.Cache
+C:\Users\Raj\Desktop\College Management System\College Management System\bin\Debug\College Management System.exe.manifest
+C:\Users\Raj\Desktop\College Management System\College Management System\bin\Debug\College Management System.application
+C:\Users\Raj\Desktop\College Management System\College Management System\bin\Debug\College Management System.exe
+C:\Users\Raj\Desktop\College Management System\College Management System\bin\Debug\College Management System.pdb
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College Management System.exe.manifest
+C:\Users\Raj\Desktop\College Management System\College Management System\obj\x86\Debug\College Management System.application
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\bin\Debug\College Management System.exe.config
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College Management System.exe
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College Management System.pdb
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College Management System.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEvent.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEventRecord.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSubjectInfoReport.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAttendanceRecord.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAttendanceReport.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentReceipt.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentReceiptRpt.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHoldersReport.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmCourseFeePaymentReceipt.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeePaymentReport.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeRecord.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeRecord1.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeReport.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeeDetailsReport.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeePaymentRecord.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesPaymentReport.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostel.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHolders.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelers.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHoldersRecord.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHoldersRecord1.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelersRecord1.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelersRecord.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelersReport.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePayment.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePayment.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentReceiptRpt.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentRecord.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentRecord1.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentRecord.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentRecord1.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentReport.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentReport.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelPaymentReceipt.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelRecord.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmInternalMarksReport.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmLogin.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmDepartmentRecord.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeePaymentReceipt.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmLoginDetails.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRegisteredUsersDetails.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRegistrationForm.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalaryPaymentRecord.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalarySlipRpt.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentReceipt.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentReceiptRpt.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentRecord.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentRecord1.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentReport.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentDetailsRpt.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRecord.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistrationRecord.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistrationRecord2.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistrationRecord1.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentsRegistrationReport.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransactionRecord.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransactionRecord1.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransactionReport.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransportation.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransportationRecord.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransportationReport.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRegistrationReport.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalaryPaymentRecord1.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.FrmSalarySlip.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipRecord.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSection.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSectionRecord.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSemester.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSemesterRecord.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSplash.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentDetailsReport.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAboutBox1.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmChangePassword.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmContact.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmCourse.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmCourseRecord.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmDepartment.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeDetails.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeePaymentRecord1.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesDetails.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesDetailsRecord.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesPayment.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmInternalMarksEntry.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmOtherTransaction.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalaryPayment.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarship.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPayment.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmMainMenu.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRecoveryPassword.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAttendance.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudent.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistration.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentReport.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSubjectInfo.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSubjectInfoRecord.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmUserRegistration.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmPrintOptions.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.Properties.Resources.resources
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College Management System.csproj.GenerateResource.Cache
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\bin\Debug\College Management System.exe.manifest
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\bin\Debug\College Management System.application
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\bin\Debug\College Management System.exe
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\bin\Debug\College Management System.pdb
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College Management System.exe.manifest
+C:\Users\Ali\Desktop\college management system_1\College Management System\College Management System\obj\x86\Debug\College Management System.application
+F:\university work\extra-working\college management system_1\College Management System\College Management System\bin\Debug\College Management System.exe.config
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College Management System.exe
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College Management System.pdb
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College Management System.csprojResolveAssemblyReference.cache
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEvent.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEventRecord.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSubjectInfoReport.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAttendanceRecord.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAttendanceReport.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentReceipt.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentReceiptRpt.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHoldersReport.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmCourseFeePaymentReceipt.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeePaymentReport.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeRecord.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeRecord1.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeReport.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeeDetailsReport.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeePaymentRecord.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesPaymentReport.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostel.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHolders.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelers.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHoldersRecord.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHoldersRecord1.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelersRecord1.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelersRecord.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelersReport.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePayment.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePayment.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentReceiptRpt.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentRecord.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentRecord1.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentRecord.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentRecord1.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentReport.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentReport.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelPaymentReceipt.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelRecord.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmInternalMarksReport.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmLogin.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmDepartmentRecord.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeePaymentReceipt.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmLoginDetails.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRegisteredUsersDetails.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRegistrationForm.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalaryPaymentRecord.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalarySlipRpt.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentReceipt.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentReceiptRpt.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentRecord.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentRecord1.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentReport.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentDetailsRpt.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRecord.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistrationRecord.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistrationRecord2.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistrationRecord1.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentsRegistrationReport.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransactionRecord.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransactionRecord1.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransactionReport.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransportation.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransportationRecord.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransportationReport.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRegistrationReport.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalaryPaymentRecord1.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.FrmSalarySlip.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipRecord.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSection.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSectionRecord.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSemester.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSemesterRecord.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSplash.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentDetailsReport.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAboutBox1.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmChangePassword.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmContact.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmCourse.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmCourseRecord.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmDepartment.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeDetails.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeePaymentRecord1.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesDetails.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesDetailsRecord.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesPayment.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmInternalMarksEntry.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmOtherTransaction.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalaryPayment.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarship.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPayment.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmMainMenu.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRecoveryPassword.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAttendance.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudent.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistration.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentReport.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSubjectInfo.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSubjectInfoRecord.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmUserRegistration.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmPrintOptions.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College_Management_System.Properties.Resources.resources
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College Management System.csproj.GenerateResource.Cache
+F:\university work\extra-working\college management system_1\College Management System\College Management System\bin\Debug\College Management System.exe.manifest
+F:\university work\extra-working\college management system_1\College Management System\College Management System\bin\Debug\College Management System.application
+F:\university work\extra-working\college management system_1\College Management System\College Management System\bin\Debug\College Management System.exe
+F:\university work\extra-working\college management system_1\College Management System\College Management System\bin\Debug\College Management System.pdb
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College Management System.exe.manifest
+F:\university work\extra-working\college management system_1\College Management System\College Management System\obj\x86\Debug\College Management System.application
+C:\Users\Ali\Desktop\College Management System\College Management System\bin\Debug\College Management System.exe.config
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College Management System.exe
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College Management System.pdb
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College Management System.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEvent.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEventRecord.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSubjectInfoReport.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAttendanceRecord.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAttendanceReport.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentReceipt.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentReceiptRpt.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHoldersReport.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmCourseFeePaymentReceipt.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeePaymentReport.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeRecord.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeRecord1.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeReport.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeeDetailsReport.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeePaymentRecord.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesPaymentReport.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostel.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHolders.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelers.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHoldersRecord.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHoldersRecord1.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelersRecord1.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelersRecord.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelersReport.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePayment.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePayment.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentReceiptRpt.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentRecord.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentRecord1.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentRecord.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentRecord1.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentReport.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentReport.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelPaymentReceipt.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelRecord.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmInternalMarksReport.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmLogin.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmDepartmentRecord.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeePaymentReceipt.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmLoginDetails.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRegisteredUsersDetails.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRegistrationForm.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalaryPaymentRecord.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalarySlipRpt.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentReceipt.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentReceiptRpt.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentRecord.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentRecord1.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentReport.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentDetailsRpt.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRecord.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistrationRecord.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistrationRecord2.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistrationRecord1.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentsRegistrationReport.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransactionRecord.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransactionRecord1.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransactionReport.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransportation.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransportationRecord.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransportationReport.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRegistrationReport.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalaryPaymentRecord1.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.FrmSalarySlip.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipRecord.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSection.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSectionRecord.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSemester.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSemesterRecord.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSplash.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentDetailsReport.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAboutBox1.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmChangePassword.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmContact.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmCourse.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmCourseRecord.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmDepartment.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeDetails.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeePaymentRecord1.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesDetails.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesDetailsRecord.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesPayment.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmInternalMarksEntry.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmOtherTransaction.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalaryPayment.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarship.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPayment.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmMainMenu.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRecoveryPassword.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAttendance.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudent.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistration.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentReport.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSubjectInfo.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSubjectInfoRecord.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmUserRegistration.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmPrintOptions.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College_Management_System.Properties.Resources.resources
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College Management System.csproj.GenerateResource.Cache
+C:\Users\Ali\Desktop\College Management System\College Management System\bin\Debug\College Management System.exe.manifest
+C:\Users\Ali\Desktop\College Management System\College Management System\bin\Debug\College Management System.application
+C:\Users\Ali\Desktop\College Management System\College Management System\bin\Debug\College Management System.exe
+C:\Users\Ali\Desktop\College Management System\College Management System\bin\Debug\College Management System.pdb
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College Management System.exe.manifest
+C:\Users\Ali\Desktop\College Management System\College Management System\obj\x86\Debug\College Management System.application
+E:\College Management System\College Management System\bin\Debug\College Management System.exe.config
+E:\College Management System\College Management System\obj\x86\Debug\College Management System.exe
+E:\College Management System\College Management System\obj\x86\Debug\College Management System.pdb
+E:\College Management System\College Management System\bin\Debug\College Management System.exe.manifest
+E:\College Management System\College Management System\bin\Debug\College Management System.application
+E:\College Management System\College Management System\bin\Debug\College Management System.exe
+E:\College Management System\College Management System\bin\Debug\College Management System.pdb
+E:\College Management System\College Management System\obj\x86\Debug\College Management System.csprojResolveAssemblyReference.cache
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEvent.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEventRecord.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSubjectInfoReport.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAttendanceRecord.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAttendanceReport.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentReceipt.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentReceiptRpt.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHoldersReport.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmCourseFeePaymentReceipt.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeePaymentReport.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeRecord.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeRecord1.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeReport.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeeDetailsReport.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeePaymentRecord.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesPaymentReport.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostel.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHolders.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelers.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHoldersRecord.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHoldersRecord1.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelersRecord1.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelersRecord.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelersReport.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePayment.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePayment.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentReceiptRpt.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentRecord.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentRecord1.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentRecord.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentRecord1.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentReport.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentReport.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelPaymentReceipt.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelRecord.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmInternalMarksReport.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmLogin.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmDepartmentRecord.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeePaymentReceipt.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmLoginDetails.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRegisteredUsersDetails.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRegistrationForm.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalaryPaymentRecord.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalarySlipRpt.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentReceipt.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentReceiptRpt.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentRecord.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentRecord1.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentReport.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentDetailsRpt.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRecord.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistrationRecord.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistrationRecord2.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistrationRecord1.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentsRegistrationReport.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransactionRecord.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransactionRecord1.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransactionReport.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransportation.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransportationRecord.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransportationReport.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRegistrationReport.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalaryPaymentRecord1.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.FrmSalarySlip.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipRecord.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSection.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSectionRecord.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSemester.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSemesterRecord.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSplash.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentDetailsReport.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAboutBox1.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmChangePassword.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmContact.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmCourse.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmCourseRecord.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmDepartment.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeDetails.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeePaymentRecord1.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesDetails.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesDetailsRecord.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesPayment.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmInternalMarksEntry.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmOtherTransaction.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalaryPayment.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarship.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPayment.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmMainMenu.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRecoveryPassword.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAttendance.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudent.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistration.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentReport.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSubjectInfo.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSubjectInfoRecord.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmUserRegistration.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmPrintOptions.resources
+E:\College Management System\College Management System\obj\x86\Debug\College_Management_System.Properties.Resources.resources
+E:\College Management System\College Management System\obj\x86\Debug\College Management System.csproj.GenerateResource.Cache
+E:\College Management System\College Management System\obj\x86\Debug\College Management System.exe.manifest
+E:\College Management System\College Management System\obj\x86\Debug\College Management System.application
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\bin\Debug\College Management System.exe.config
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College Management System.exe
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College Management System.pdb
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\bin\Debug\College Management System.exe.manifest
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\bin\Debug\College Management System.application
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\bin\Debug\College Management System.exe
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\bin\Debug\College Management System.pdb
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College Management System.csprojResolveAssemblyReference.cache
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEvent.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEventRecord.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSubjectInfoReport.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAttendanceRecord.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAttendanceReport.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentReceipt.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentReceiptRpt.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHoldersReport.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmCourseFeePaymentReceipt.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeePaymentReport.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeRecord.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeRecord1.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeReport.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeeDetailsReport.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeePaymentRecord.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesPaymentReport.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostel.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHolders.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelers.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHoldersRecord.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHoldersRecord1.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelersRecord1.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelersRecord.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelersReport.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePayment.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePayment.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentReceiptRpt.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentRecord.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentRecord1.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentRecord.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentRecord1.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentReport.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentReport.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelPaymentReceipt.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelRecord.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmInternalMarksReport.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmLogin.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmDepartmentRecord.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeePaymentReceipt.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmLoginDetails.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRegisteredUsersDetails.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRegistrationForm.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalaryPaymentRecord.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalarySlipRpt.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentReceipt.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentReceiptRpt.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentRecord.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentRecord1.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentReport.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentDetailsRpt.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRecord.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistrationRecord.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistrationRecord2.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistrationRecord1.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentsRegistrationReport.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransactionRecord.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransactionRecord1.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransactionReport.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransportation.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransportationRecord.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransportationReport.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRegistrationReport.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalaryPaymentRecord1.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.FrmSalarySlip.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipRecord.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSection.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSectionRecord.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSemester.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSemesterRecord.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSplash.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentDetailsReport.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAboutBox1.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmChangePassword.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmContact.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmCourse.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmCourseRecord.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmDepartment.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeDetails.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeePaymentRecord1.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesDetails.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesDetailsRecord.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesPayment.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmInternalMarksEntry.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmOtherTransaction.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalaryPayment.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarship.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPayment.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmMainMenu.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRecoveryPassword.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAttendance.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudent.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistration.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentReport.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSubjectInfo.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSubjectInfoRecord.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmUserRegistration.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmPrintOptions.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.Properties.Resources.resources
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College Management System.csproj.GenerateResource.Cache
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College Management System.exe.manifest
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College Management System.application
+G:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College Management System.csproj.ResolveComReference.cache
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\bin\Debug\College Management System.exe.config
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College Management System.csproj.ResolveComReference.cache
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College Management System.csprojResolveAssemblyReference.cache
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEvent.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEventRecord.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSubjectInfoReport.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAttendanceRecord.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAttendanceReport.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentReceipt.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentReceiptRpt.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHoldersReport.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmCourseFeePaymentReceipt.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeePaymentReport.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeRecord.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeRecord1.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeReport.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeeDetailsReport.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeePaymentRecord.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesPaymentReport.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostel.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHolders.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelers.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHoldersRecord.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusHoldersRecord1.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelersRecord1.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelersRecord.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelersReport.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePayment.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePayment.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentReceiptRpt.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentRecord.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentRecord1.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentRecord.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentRecord1.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmBusFeePaymentReport.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelFeePaymentReport.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelPaymentReceipt.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmHostelRecord.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmInternalMarksReport.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmLogin.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmDepartmentRecord.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeePaymentReceipt.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmLoginDetails.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRegisteredUsersDetails.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRegistrationForm.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalaryPaymentRecord.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalarySlipRpt.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentReceipt.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentReceiptRpt.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentRecord.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentRecord1.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPaymentReport.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentDetailsRpt.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRecord.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistrationRecord.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistrationRecord2.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistrationRecord1.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentsRegistrationReport.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransactionRecord.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransactionRecord1.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransactionReport.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransportation.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransportationRecord.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmTransportationReport.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRegistrationReport.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalaryPaymentRecord1.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.FrmSalarySlip.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipRecord.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSection.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSectionRecord.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSemester.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSemesterRecord.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSplash.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentDetailsReport.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAboutBox1.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmChangePassword.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmContact.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmCourse.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmCourseRecord.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmDepartment.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmEmployeeDetails.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeePaymentRecord1.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesDetails.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesDetailsRecord.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmFeesPayment.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmInternalMarksEntry.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmOtherTransaction.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSalaryPayment.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarship.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmScholarshipPayment.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmMainMenu.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmRecoveryPassword.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmAttendance.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudent.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentRegistration.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmStudentReport.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSubjectInfo.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmSubjectInfoRecord.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmUserRegistration.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.frmPrintOptions.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College_Management_System.Properties.Resources.resources
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College Management System.csproj.GenerateResource.Cache
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\bin\Debug\College Management System.exe.manifest
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\bin\Debug\College Management System.application
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\bin\Debug\College Management System.exe
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\bin\Debug\College Management System.pdb
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\bin\Debug\Microsoft.SqlServer.Smo.dll
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College Management System.exe.manifest
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College Management System.application
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College Management System.exe
+H:\university work\5th semester\OOAD\final-project-college\College Management System\College Management System\obj\x86\Debug\College Management System.pdb
